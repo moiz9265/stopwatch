@@ -1,0 +1,12 @@
+body{
+    background-color: #066989;
+}
+
+#maindiv
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: #0789B3;
+    padding: 150px;
+}

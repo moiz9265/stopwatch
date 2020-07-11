@@ -1,0 +1,9 @@
+body{
+    background-color: #06779B;
+}
+
+#maindiv
+{
+    position: absolute;
+    top: 50%;
+}

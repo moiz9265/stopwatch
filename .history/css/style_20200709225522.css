@@ -1,0 +1,19 @@
+body{
+    background-color: #066989;
+}
+
+#maindiv
+{
+
+    width: 40%;
+    background-color: #0789B3;
+    padding: 80px;
+    
+}
+
+h1
+{
+    display: inline-block;
+    width: 100px;
+   text-align: center;
+}

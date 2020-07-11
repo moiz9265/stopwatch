@@ -1,0 +1,23 @@
+body{
+    background-color: #066989;
+}
+
+#maindiv
+{
+        marg
+    width: 40%;
+    background-color: #0789B3;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+
+}
+
+h1
+{
+    display: inline-block;
+    width: 100px;
+   text-align: center;
+}
